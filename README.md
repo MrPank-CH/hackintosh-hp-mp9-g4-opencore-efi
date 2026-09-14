@@ -5,18 +5,20 @@ Ventura 13.6. Theoretically supports all macOS versions from 11 to 15. macOS 14 
 
 Hardware：
 
-CPU: i5-8600T
-RAM: DDR4 8 GB
-SSD: WD SN730 256 GB
-Wi-Fi & Bluetooth: BCM943062CS
-Ethernet: Intel I219
-BIOS: 02.35.00
+CPU: i5-8600T；
+RAM: DDR4 8 GB；
+Graphic: UHD630;
+SSD: WD SN730 256 GB；
+Wi-Fi & Bluetooth: BCM943062CS；
+Ethernet: Intel I219；
+BIOS: 02.35.00；
 
 Working：
 
 BCM wireless card
 Intel I219
 Audio
+UHD630
 AirDrop (Ventura)
 Bluetooth audio (A2DP)
 2x DP + VGA
